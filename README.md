@@ -10,7 +10,6 @@ Hi, I'm Ean! I'm a passionate developer with a love for creating innovative solu
 
 - **Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![HTML](https://img.shields.io/badge/logo-html-blue?logo=html)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - **Frameworks:**  
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
