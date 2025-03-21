@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Wagwan! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=popedrex&color=blue)
 
