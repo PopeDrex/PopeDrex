@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm Ean! I'm a passionate developer with a love for creating innovative solutions. Check out my projects and feel free to reach out!
+Hi, I'm Ean! I'm a passionate developer with a love for random stuff that i find useful :P 
 
 ## 🚀 Skills
 
