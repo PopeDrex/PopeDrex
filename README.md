@@ -54,10 +54,9 @@ A software development venture focused on crafting digital solutions for busines
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/popedrex">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=popedrex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=popedrex&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
+![Ean's GitHub stats](https://github-readme-stats.vercel.app/api?username=popedrex&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=popedrex&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
