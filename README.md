@@ -4,9 +4,7 @@
 
 ## 💼 Founder & Lead Developer at McCullagh LABS
 
-I'm a passionate developer and startup founder building innovative digital solutions. As the creator of [McCullagh LABS](https://www.mccullaghlabs.com), I specialize in crafting exceptional web applications and software that drive business growth.
-
-> "Building technology that solves real-world problems and delivers exceptional user experiences."
+As the creator of [McCullagh LABS](https://www.mccullaghlabs.com), I specialize in crafting exceptional web applications and Personal software.
 
 ## 🔧 Tech Stack & Skills
 
@@ -50,7 +48,6 @@ A software development venture focused on crafting digital solutions for busines
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ean-mccullagh-8b5b081a3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popedrex)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ean_mccullagh@outlook.com)
 
 ## 📊 GitHub Stats
 
@@ -64,4 +61,4 @@ A software development venture focused on crafting digital solutions for busines
 
 ---
 *Currently open to freelance projects and collaboration opportunities. Feel free to reach out!*
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
+
